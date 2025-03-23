@@ -1,7 +1,7 @@
 public class ninteen{
     public static void main(String[] args) {
         int[] nums={0,1,1,0,1,1};
-        System.out.println(minOperation(nums));
+        System.out.println(minOperations(nums));
     }
     public static int minOperations(int[] nums) {
         int res=0;
